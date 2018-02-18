@@ -1,6 +1,6 @@
-Created by: AnxiousInfusion
+Created by: CloudyProton
 Version: 0.0
-Code: LGPL 2.1
+Code: LGPL 3.0
 Assets: CC BY-SA 3.0
 MT Version: 0.4.13+
 Date: 2016-10-09
